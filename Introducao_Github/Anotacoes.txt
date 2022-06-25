@@ -1,0 +1,5 @@
+Comandos importantes
+git status
+git add.
+git comitt -m "comitar a versão"
+git push
